@@ -1,3 +1,4 @@
+
 #define NORMALER_PIN 11
 #define BESONDERER_PIN 10
 
